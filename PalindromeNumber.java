@@ -1,4 +1,4 @@
-package leedcode;
+// package leedcode;
 
 public class PalindromeNumber {
     class Solution {
