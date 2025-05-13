@@ -1,7 +1,6 @@
 // package leedcode;
 
 import java.util.*;
-import java.util.LinkedHashSet;
 
 class LongestSubString {
     public int lengthOfLongestSubstring(String s) {
