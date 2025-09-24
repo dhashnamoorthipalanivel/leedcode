@@ -13,6 +13,7 @@
 // Input: date = "2019-02-10"
 // Output: 41
 
+
 class Solution {
     public int dayOfYear(String date) {
         int day = 0;
