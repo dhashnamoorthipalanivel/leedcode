@@ -1,6 +1,5 @@
 class Solution {
     public String smallestSubsequence(String s) {
-        // public String removeDuplicateLetters(String s) {
         boolean [] seen = new boolean [26];
         int [] freq=new int[26];
         for(int i =0; i<s.length(); i++) {
